@@ -75,8 +75,8 @@ This application runs entirely within AWS free tier limits:
 ## 👨‍💻 Author
 
 **Faizal Shaikh**
-- GitHub: [@faizalshaikh07](https://github.com/faizalshaikh07)
-- LinkedIn: [Faizal Shaikh](https://linkedin.com/in/faizalshaikh07)
+- GitHub: [@faizdev07](https://github.com/faizdev07)
+- LinkedIn: [Faizal Shaikh](https://www.linkedin.com/in/faizalshaikh-pro)
 
 ## 📄 License
 
